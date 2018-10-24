@@ -1,0 +1,19 @@
+{
+  "endpoint": "http://localhost//", 
+  "summary": {
+    "duration":         3027807,
+    "requests":         12493,
+    "bytes":            10618570,
+    "requests_per_sec": 0.00,
+    "transfer_per_sec": "0.00"
+  },
+  "latency": {
+    "min":           411.00,
+    "max":           103736.00,
+    "mean":          12431.68,
+    "stdev":         10284.48,
+    "percentile_90": 21484.00,
+    "percentile_95": 30551.00,
+    "percentile_99": 57580.00
+  }
+}
